@@ -1,0 +1,17 @@
+//@robzoly
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <pthread.h>
+
+int main(){
+
+//Definir el numero de hilos. (5)
+
+#define NumHilos 5
+
+
+
+return 0;
+}
+
